@@ -1,0 +1,117 @@
+.navbar{
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(8px);
+  padding: 0.4rem 1rem;
+}
+
+.navbar-brand {
+  font-family: 'Blanka-Regular';
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+  
+}
+
+.table{
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.table th {
+  font-family:'SpaceGrotesk';
+}
+
+.table td {
+  font-family:'SpaceGrotesk';
+}
+
+.sampul {
+  width: 70px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+border-radius: 3px;
+}
+
+.card {
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.card-title{
+    font-family:'SpaceGrotesk-Bold';
+    text-decoration: none;
+}
+
+.card-text{
+    font-family:'SpaceGrotesk-Bold';
+    text-decoration: none;
+}
+
+.btn {
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+     font-family:'SpaceGrotesk';
+    text-align: center;
+}
+
+.button {
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+     font-family:'SpaceGrotesk';
+    text-align: center;
+  }
+
+.col h2{
+  font-family:'SpaceGrotesk';
+    text-decoration: none;
+}
+
+.col h1{
+  font-family:'SpaceGrotesk-Bold';
+    text-decoration: none;
+}
+.col-8 h2{
+  font-family:'SpaceGrotesk-Bold';
+    text-decoration: none;
+}
+.col-6 h1{
+  font-family:'SpaceGrotesk-Bold';
+    text-decoration: none;
+}
+
+.col-8 h1{
+  font-family:'SpaceGrotesk-Bold';
+    text-decoration: none;
+}
+.custom-file-label{
+  font-family:'SpaceGrotesk';
+    text-decoration: none;
+}
+
+.col-form-label{
+  font-family:'SpaceGrotesk';
+    text-decoration: none;
+}
+.form-control{
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+     font-family:'SpaceGrotesk';
+}
+
+@font-face {
+  font-family: Blanka-Regular;
+  src: url(./fonts/Blanka-Regular.otf);
+
+}
+
+@font-face {
+  font-family: SpaceGrotesk;
+  src: url(./fonts/SpaceGrotesk-Regular.ttf);
+
+}
+
+@font-face {
+  font-family: SpaceGrotesk-Bold;
+  src: url(./fonts/SpaceGrotesk-Bold.ttf);
+
+}
+
+
+
