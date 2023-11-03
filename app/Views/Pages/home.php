@@ -27,7 +27,7 @@
           </div>
           <h1><span class="text-danger">Saya <span class="glow">M</span><span class="text-danger">. </span><span class="glow">Diki</span></span><span class="glow"> Iswari</span></h1>
           <div class="titles">
-            <span id="title-1">Web Developer</span>
+            <span id="title-1">Front End Developer</span>
             <span>|</span>
             <span id="title-2">Graphic Designer</span>
             <span>|</span>
@@ -66,7 +66,6 @@
   </main>
   <footer>
     <small>Copyright &copy; M. Diki Iswari All rights Reserved.</small>
-    <small id="created">Dibuat mengguankan CodeIgniter</small>
   </footer>
 
   <!-- Script -->

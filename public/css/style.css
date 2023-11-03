@@ -1,4 +1,5 @@
 .navbar{
+  display: flex;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(8px);
   padding: 0.4rem 1rem;
